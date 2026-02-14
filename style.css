@@ -15,11 +15,6 @@ body {
     cursor: pointer;
 }
 
-#envelope-container p {
-    position: relative;
-    top: -100px;
-
-}
 
 @keyframes pulse {
     0% {
